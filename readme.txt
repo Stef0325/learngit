@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Dev test.
 Creating a new branch is quick and simple.
+The changes from a new branch "first".
